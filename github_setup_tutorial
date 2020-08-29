@@ -1,0 +1,9 @@
+Step 0:   Create a github account
+
+Step 0.5: I might have to change certain permissions on the repo or add people to it to allow people to be able to clone / push to it.
+          This is something we can work out as we get the repo up and running.
+          
+Step 1:   Get a working copy of this repo on your local machine. Use the following command:
+          git clone git@github.com:BECO/vr_therapy
+          
+          ...
